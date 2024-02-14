@@ -1,0 +1,151 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "user_uuid": "c63f866b-1487-4761-8f0b-86d9ed1191a4",
+      "username": "enas",
+      "handle": "enasmetwaly",
+      "bio": "Hello, I'm Enas!",
+      "link": "https://linktr.ee/admin/account",
+      "img": "https://blog.checkiant.com/images/portrait-male-programmer-office_fmxi3y.jpg",
+      "instgram_url": "https://www.instagram.com/enas.metwaly/?igsh=MXB2emp4N3hyNzF0cg%3D%3D",
+      "followers": [
+        {
+          "user_uuid": "e135a8fe-c56b-42fd-8f75-52e1a9f5deab"
+        },
+        {
+          "user_uuid": "2a9a79ca-276e-46de-a8a1-f626ff57a44f"
+        },
+        {
+          "user_uuid": "eaec7940-8580-44e3-83ab-c763f7336cf8"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "user_uuid": "e135a8fe-c56b-42fd-8f75-52e1a9f5deab",
+      "username": "john_doe",
+      "handle": "johndoe",
+      "bio": "Web developer and music enthusiast.",
+      "link": "johnswebsite",
+      "img": "johnsimgur",
+      "instgram_url": "johns_insta",
+      "followers": [
+        {
+          "user_uuid": "c63f866b-1487-4761-8f0b-86d9ed1191a4"
+        },
+        {
+          "user_uuid": "2a9a79ca-276e-46de-a8a1-f626ff57a44f"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "user_uuid": "2a9a79ca-276e-46de-a8a1-f626ff57a44f",
+      "username": "mary_smith",
+      "handle": "marysmith",
+      "bio": "Traveler, explorer, and coffee lover.",
+      "link": "marysblog",
+      "img": "marysimgur",
+      "instgram_url": "marys_insta",
+      "followers": [
+        {
+          "user_uuid": "c63f866b-1487-4761-8f0b-86d9ed1191a4"
+        },
+        {
+          "user_uuid": "e135a8fe-c56b-42fd-8f75-52e1a9f5deab"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "user_uuid": "eaec7940-8580-44e3-83ab-c763f7336cf8",
+      "username": "alex_jones",
+      "handle": "alexjones",
+      "bio": "Tech geek and aspiring chef.",
+      "link": "alexcooks",
+      "img": "aleximgur",
+      "instgram_url": "alex_insta",
+      "followers": [
+        {
+          "user_uuid": "c63f866b-1487-4761-8f0b-86d9ed1191a4"
+        },
+        {
+          "user_uuid": "2a9a79ca-276e-46de-a8a1-f626ff57a44f"
+        }
+      ]
+    }
+  ],
+  "threads": [
+    {
+      "id": "1",
+      "timestamp": "Sat 18 2023",
+      "thread_from": "c63f866b-1487-4761-8f0b-86d9ed1191a4",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "Hello, everyone! 👋",
+      "likes": [
+        {
+          "user_uuid": "e135a8fe-c56b-42fd-8f75-52e1a9f5deab"
+        },
+        {
+          "user_uuid": "eaec7940-8580-44e3-83ab-c763f7336cf8"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "timestamp": "Sat 18 2023",
+      "thread_from": "c63f866b-1487-4761-8f0b-86d9ed1191a4",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "Excited to join this community!",
+      "likes": []
+    },
+    {
+      "id": "3",
+      "timestamp": "Sat 18 2023",
+      "thread_from": "c63f866b-1487-4761-8f0b-86d9ed1191a4",
+      "thread_to": "e135a8fe-c56b-42fd-8f75-52e1a9f5deab",
+      "reply_to": 2,
+      "text": "Greetings from a fellow traveler. 🌍",
+      "likes": []
+    },
+    {
+      "id": "4",
+      "timestamp": "Sat 18 2023",
+      "thread_from": "eaec7940-8580-44e3-83ab-c763f7336cf8",
+      "thread_to": null,
+      "reply_to": 3,
+      "text": "Any tech enthusiasts here? Let's connect! 💻",
+      "likes": []
+    },
+    {
+      "id": "5",
+      "timestamp": "Sat 18 2023",
+      "thread_from": "e135a8fe-c56b-42fd-8f75-52e1a9f5deab",
+      "thread_to": "c63f866b-1487-4761-8f0b-86d9ed1191a4",
+      "reply_to": 1,
+      "text": "Hi Enas! I love your bio. 😊",
+      "likes": []
+    },
+    {
+      "id": "83e3"
+    },
+    {
+      "id": "2fc5"
+    },
+    {
+      "id": "2cbe"
+    },
+    {
+      "id": "8e22"
+    },
+    {
+      "id": "cb55"
+    },
+    {
+      "id": "29ae"
+    }
+  ]
+}
