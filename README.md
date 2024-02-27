@@ -2,6 +2,12 @@
 
 Welcome to Threads App! This project is a Threads application bootstrapped with Create React App. It empowers users to engage in threaded discussions on various topics.
 
+## Project Snapshot
+
+![Project Snapshot](snap.jpeg)
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -10,8 +16,4 @@ In the project directory, you can run:
 - `npm test`: Launches the test runner in interactive watch mode.
 - `npm run build`: Builds the app for production to the build folder.
 
-## Project Snapshot
 
-![Project Snapshot](snap.jpeg)
-
-Feel free to explore the Threads App and dive into meaningful discussions!
