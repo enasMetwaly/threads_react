@@ -1,8 +1,8 @@
 
-Threads App
+#Threads App
 This project is a Threads application bootstrapped with Create React App. It allows users to engage in threaded discussions on various topics.
 
-Available Scripts
+#Available Scripts
 In the project directory, you can run:
 
 npm start
